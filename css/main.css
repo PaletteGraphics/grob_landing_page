@@ -56,3 +56,25 @@ p {
 html {
   scroll-behavior: smooth;
 }
+
+/* Menu START */
+/* Style the navbar */
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: #34343464;
+}
+
+/* Navbar links */
+#navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+/* Menu SLUT */
